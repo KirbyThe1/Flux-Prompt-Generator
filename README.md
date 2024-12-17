@@ -39,6 +39,7 @@ This fork builds upon the original tool and adds extensive new functionality, in
 
 1. **cd** to the custom_nodes folder inside of **ComfyUI** directory
 2. **cmd** in the address bar, then use this command:
+3. Or from a Linux terminal
 ```
 git clone https://github.com/kirbythe1/Flux-Prompt-Generator.git
 ```
