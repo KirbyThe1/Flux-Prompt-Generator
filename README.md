@@ -79,15 +79,13 @@ The node would then generate a prompt similar to: "photography of a woman with l
 
 Your support is appreciated:
 
-- USDt (TRC20): `TGCVbSSJbwL5nyXqMuKY839LJ5q5ygn2uS`
-- BTC: `13GS1ixn2uQAmFQkte6qA5p1MQtMXre6MT`
-- ETH (ERC20): `0xdbc7a7dafbb333773a5866ccf7a74da15ee654cc`
-- LTC: `Ldb6SDxUMEdYQQfRhSA3zi4dCUtfUdsPou`
+
+[(https://buymeacoffee.com/kirbythe13)]
 
 ## Author and Contact
 
-- GitHub: [FairyRoot](https://github.com/fairy-root)
-- Telegram: [@FairyRoot](https://t.me/FairyRoot)
+- GitHub: [FairyRoot](https://github.com/KIRBYTHE1)
+
 
 ## License
 
