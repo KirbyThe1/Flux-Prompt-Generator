@@ -98,7 +98,7 @@ If you enjoy this enhanced version and would like to support its ongoing develop
 [(https://buymeacoffee.com/kirbythe13)]
 
 
-To support the original author:  [FairyRoot](https://github.com/fairy-root)
+To support the original author:  [FairyRoot](https://github.com/fairy-root) at the following addresses:
 
 USDt (TRC20): TGCVbSSJbwL5nyXqMuKY839LJ5q5ygn2uS
 
