@@ -64,7 +64,10 @@ git clone https://github.com/kirbythe1/Flux-Prompt-Generator.git
 
 ## Example
 
-[(https://github.com/user-attachments/assets/63548fac-f526-42ce-ab2b-a76a70d94339)]
+
+![v2](https://github.com/user-attachments/assets/05b7e9a8-33db-4250-8bc4-c272f13b29ec)
+
+
 
 
 The node would then generate a prompt and image similar to:
