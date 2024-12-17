@@ -77,8 +77,18 @@ The node would then generate a prompt amd similar to:
 
 Your support is appreciated:
 
-
+☕ Support My Work
+If you enjoy this enhanced version and would like to support its ongoing development:
 [(https://buymeacoffee.com/kirbythe13)]
+
+
+To support the original author:  [FairyRoot](https://github.com/fairy-root)
+
+USDt (TRC20): TGCVbSSJbwL5nyXqMuKY839LJ5q5ygn2uS
+BTC: 13GS1ixn2uQAmFQkte6qA5p1MQtMXre6MT
+ETH (ERC20): 0xdbc7a7dafbb333773a5866ccf7a74da15ee654cc
+LTC: Ldb6SDxUMEdYQQfRhSA3zi4dCUtfUdsPou
+
 
 ## Author and Contact
 
