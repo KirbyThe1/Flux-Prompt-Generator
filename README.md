@@ -47,7 +47,7 @@ This fork builds upon the original tool and adds extensive new functionality, in
 1. **cd** to the custom_nodes folder inside of **ComfyUI** directory
 2. **cmd** in the address bar, then use this command:
 ```
-git clone https://github.com/fairy-root/Flux-Prompt-Generator.git
+git clone https://github.com/kirbythe1/Flux-Prompt-Generator.git
 ```
 
 ## Usage
@@ -64,16 +64,14 @@ git clone https://github.com/fairy-root/Flux-Prompt-Generator.git
 
 ## Example
 
-Let's say you want to generate a prompt for a portrait photograph of a woman with long hair, wearing a dress, and standing in a forest. You could configure the node with the following parameters:
+![v2](https://github.com/user-attachments/assets/63548fac-f526-42ce-ab2b-a76a70d94339)
 
-- **Artform:** Photography
-- **Photo Type:** Portrait
-- **Default Tags:** Woman
-- **Hairstyles:** Long Hair
-- **Clothing:** Dress
-- **Place:** Forest
 
-The node would then generate a prompt similar to: "photography of a woman with long hair, dressed in a dress, in a forest."
+The node would then generate a prompt amd similar to:
+
+![v1](https://github.com/user-attachments/assets/4b16bb9e-b60c-42d1-98ce-e02fd4962c2c)
+
+
 
 ## Donation
 
@@ -84,7 +82,7 @@ Your support is appreciated:
 
 ## Author and Contact
 
-- GitHub: [FairyRoot](https://github.com/KIRBYTHE1)
+- GitHub: (https://github.com/kirbythe1)
 
 
 ## License
