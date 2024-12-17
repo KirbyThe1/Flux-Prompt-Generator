@@ -32,13 +32,6 @@ This fork builds upon the original tool and adds extensive new functionality, in
    - Only valid options are used, ensuring consistent and error-free prompts.  
    - Disabled fields are gracefully ignored.
 
-4. **Output Example**:
-   With Version 2.0, here’s an example of the prompt you can generate:
-
-    
-
-   **Generated Prompt**:
-
    
 
 
@@ -61,6 +54,11 @@ git clone https://github.com/kirbythe1/Flux-Prompt-Generator.git
     - **... (All other parameters as described in the Overview section)**
 
 3. **Connect the output of the node to a text-to-image model (like Flux or Stable Diffusion...etc) to generate images based on the generated prompt.**
+
+
+
+4. **Output Example**:
+   With Version 2.0, here’s an example of the prompt you can generate:
 
 ## Example
 
