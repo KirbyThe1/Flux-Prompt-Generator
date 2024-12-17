@@ -3,46 +3,44 @@
 **Flux Prompt Generator** is a **ComfyUI** node that provides a flexible and customizable prompt generator for generating detailed and creative prompts for image generation models.
 based on the work by [Aitrepreneur](https://huggingface.co/Aitrepreneur) found here [Flux Prompt Generator python code](https://huggingface.co/Aitrepreneur/FLUX-Prompt-Generator/blob/main/app.py) and modified to work with ComfyUI by [FairyRoot](https://github.com/fairy-root)
 
-![Flux Prompt Generator](https://i.imgur.com/I3nQzaa.png "Displaying workflow")
 
-## Overview
 
-The **Flux Prompt Generator** utilizes a collection of JSON data files containing various categories of descriptive terms. These categories include:
+# Flux Prompt Generator - Version 2.0 🚀  
+**The Enhanced and Feature-Complete Version of the Original Flux Prompt Generator**
 
-- **Artform:** Photography, Digital Art, etc.
-- **Photo Type:** Portrait, Landscape, etc.
-- **Body Types:** Muscular, Thin, etc.
-- **Default Tags:** Man, Woman, Child, etc.
-- **Roles:** Knight, Wizard, etc.
-- **Hairstyles:** Long, Short, Braided, etc.
-- **Additional Details:** Clothing, Accessories, etc.
-- **Photography Styles:** Cinematic, Realistic, etc.
-- **Device:** Camera models, etc.
-- **Photographer:** Famous photographers, etc.
-- **Artist:** Famous artists, etc.
-- **Digital Artform:** Pixel Art, 3D Render, etc.
-- **Place:** Forest, City, etc.
-- **Lighting:** Soft, Harsh, etc.
-- **Clothing:** Dress, Suit, etc.
-- **Composition:** Rule of Thirds, Golden Ratio, etc.
-- **Pose:** Standing, Sitting, etc.
-- **Background:** Plain, Detailed, etc.
-- **Face Features:** Sharp Jawline, High Cheekbones, etc.
-- **Eye Colors:** Blue, Green, Brown, etc.
-- **Facial Hair:** Beard, Mustache, etc.
-- **Skin Tone:** Pale, Dark, etc.
-- **Age Group:** Child, Teenager, Adult, etc.
-- **Ethnicity:** Various ethnicities and cultural backgrounds.
-- **Accessories:** Glasses, Hats, Jewelry, etc.
-- **Expression:** Smile, Frown, Surprise, etc.
-- **Tattoos & Scars:** Detailed descriptions of body modifications.
-- **Makeup Styles:** Natural, Glamorous, etc.
-- **Hair Color:** Blonde, Brown, Black, etc.
-- **Body Markings:** Birthmarks, Moles, Freckles, etc.
+This is a significantly improved fork of the Version 2.0 introduces substantial enhancements, making it the most versatile and actively maintained version available for prompt generation in **ComfyUI** and other node-based systems.
 
-![Flux Prompt Generator](https://i.imgur.com/0TNizfp.png "Displaying node")
+---
 
-The node allows you to select specific terms or choose "random" to let the generator pick random terms from the corresponding JSON file. This randomness adds a degree of unpredictability and creativity to the generated prompts.
+## 🌟 **What’s New in Version 2.0?**
+This fork builds upon the original tool and adds extensive new functionality, including:  
+
+1. **Support for 30+ Customization Categories**:  
+   Now you can generate highly detailed prompts with fields such as:  
+   - **Roles** (e.g., "model", "photographer")  
+   - **Lighting** (e.g., "soft lighting", "dramatic shadows")  
+   - **Clothing** (e.g., "casual outfit", "futuristic armor")  
+   - **Expressions** (e.g., "smiling warmly", "serious")  
+   - **Hair Color**, **Body Markings**, **Accessories**, and many more.  
+
+2. **Improved Prompt Generation Logic**:  
+   - Attributes are **appended sequentially** for clean, readable prompts.  
+   - User-defined **custom text** and **subject fields** are always prioritized.  
+   - Fields marked as **"random"** automatically select valid options.
+
+3. **User-Friendly Validation**:  
+   - Only valid options are used, ensuring consistent and error-free prompts.  
+   - Disabled fields are gracefully ignored.
+
+4. **Output Example**:
+   With Version 2.0, here’s an example of the prompt you can generate:
+
+    
+
+   **Generated Prompt**:
+
+   
+
 
 ## Installation
 
