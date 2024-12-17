@@ -72,6 +72,10 @@ The node would then generate a prompt and image similar to:
 
 Add the show text node to see the exact prompts that are generated
 
+![text](https://github.com/user-attachments/assets/89153ea5-ff4f-4ff3-b6d8-5dec39388cb4)
+
+
+
 [(https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git)]
 
 
