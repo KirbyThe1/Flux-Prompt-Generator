@@ -70,6 +70,11 @@ The node would then generate a prompt and image similar to:
 
 ![v1](https://github.com/user-attachments/assets/4b16bb9e-b60c-42d1-98ce-e02fd4962c2c)
 
+Add the show text node to see the exact prompts that are generated
+
+[(https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git)]
+
+
 Fast way to generate some concept images / experiments etc
 
 
