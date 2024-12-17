@@ -41,7 +41,7 @@ This fork builds upon the original tool and adds extensive new functionality, in
 2. **cmd** in the address bar, then use this command:
 3. Or from a Linux terminal
 4. Run the following command. Restart ComfyUI
-```
+5. 
 git clone https://github.com/kirbythe1/Flux-Prompt-Generator.git
 
 
