@@ -52,7 +52,7 @@ git clone https://github.com/kirbythe1/Flux-Prompt-Generator.git
     - **Custom:** Add any custom text to the prompt.
     - **Subject:** Specify the main subject of the image.
     - **Artform:** Choose the desired art form (Photography, Digital Art, etc.).
-    - **... (All other parameters as described in the Overview section)**
+    
 
 3. **Connect the output of the node to a text-to-image model (like Flux or Stable Diffusion...etc) to generate images based on the generated prompt.**
 
